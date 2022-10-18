@@ -1,5 +1,7 @@
 ## Hi, I'm lauraparra
-#### Studing at Factoria F5 a Full Stack Bootcamp in Barcelona: HTML5- CSS3- JAVASCRIPT6- JAVA
+#### I'm a full Stack Developer from Factoria F5 Bootcamp in Barcelona: HTML5, CSS3, JavaScript6 & React & Styled-Components & Material UI & Axios, Java & Spring Boot & Spring Data & JPA & H2-Hibernate, Data Base SQL, ApiRest design, CI/CD and OOP
+#### Using tools as Figma, Trello, Postman, MockApi, Jest, JUnit5 & Mockito
+####  Applying agile methodologies such as kanban, scrum, design sprint and doing pair programming
 
 ### LENGUAGES AND TOOLS: 
 
